@@ -1,0 +1,17 @@
+.meal{
+    display: grid;
+    grid-template-columns:  repeat(3,1fr) ;
+     border: 5px solid rgb(104, 217, 104);
+    margin: 10px;
+    padding: 15px;
+    border-radius: 20px;
+    bottom: 5px;
+ 
+}
+ .mealImage {
+    width: 100px ;
+    height: inherit;
+    padding: 5px;
+    margin: auto;
+
+ }
